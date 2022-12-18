@@ -1,8 +1,7 @@
 Hi, i'm Spiros Makaronas (dotmak), a Front End developer with tendecies in likely everything regarding tech and computers. 
 
 Currently working as a Front End developer engaging in Rails, Vue & JS. 
-In the meantime i'm running my own custom WordPress themes and Eshops for various clients as a Freelancer.
-
+In the meantime i'm running my own custom WordPress themes and Commerce sites.
 
 
 <!---
