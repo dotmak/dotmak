@@ -1,1 +1,1 @@
-👋 Hey there! I'm Spiros Makaronas aka dotmak, a freelance web developer with a passion for crafting awesome online experiences. With 4 years of experience under my belt, I'm skilled in JavaScript, PHP, TailwindCSS, WordPress/WooCommerce, and dabble in React and Vue. 
+👋 
